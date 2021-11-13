@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Brendon
+- 👀 I’m interested in learning Python.
+- 🌱 I’m currently learning CSS and HTML.
+- 💞️ I’m looking to collaborate on web development projects.
+- 📫 You can reach me at bszabada525@protonmail.com
