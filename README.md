@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brendon
-- 👀 I’m interested in learning React.
+- 👀 I’m interested in learning React, Node.js, Bootstrap and more!
 - 🌱 I’m currently learning Python, JS, and SQL.
-- 💞️ I’m looking to become a Web Developer.
+- 💞️ I would like to gain more coding skills for work.
 - 📫 You can reach me at bszabada@hotmail.com
