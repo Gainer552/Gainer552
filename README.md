@@ -1,3 +1,3 @@
 ![Certified Corpo SOC](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejc3ZXM1dDRsbmY5dWp5OG1vcHFrbmllY2VjN2dienA4MzIwNG4zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuZJhsIiUEFAo6oY8V/giphy.gif) 
-![CodeNinja](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejc3ZXM1dDRsbmY5dWp5OG1vcHFrbmllY2VjN2dienA4MzIwNG4zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuZJhsIiUEFAo6oY8V/giphy.gif)
+![CodeNinja](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNsMDRxaG8wZHVveTBsdGIyamVicHAybzhhOTNrb2N2Y2dmcTRhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TtUaDzXQg6XV3BKQiJ/giphy.gif)
 
