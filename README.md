@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Gainer!
-- 👀 I’m interested in learning React, Node.js, Bootstrap and more!
-- 🌱 I’m currently learning Python, JS, and SQL.
-- 💞️ I would like to gain more coding skills for work.
-- 📫 You can reach me at 
+(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNsMDRxaG8wZHVveTBsdGIyamVicHAybzhhOTNrb2N2Y2dmcTRhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TtUaDzXQg6XV3BKQiJ/giphy.gif)
